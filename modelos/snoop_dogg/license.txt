@@ -1,0 +1,11 @@
+Model Information:
+* title:	Snoop Dogg
+* source:	https://sketchfab.com/3d-models/snoop-dogg-f21ebeccca17449bbe082f9f9421b6d3
+* author:	David Wigforss (https://sketchfab.com/dwigfor)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Snoop Dogg" (https://sketchfab.com/3d-models/snoop-dogg-f21ebeccca17449bbe082f9f9421b6d3) by David Wigforss (https://sketchfab.com/dwigfor) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
